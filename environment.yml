@@ -1,5 +1,0 @@
-name: uas-environment
-channels:
-  - conda-forge
-dependencies:
-  - numpy
